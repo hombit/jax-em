@@ -1,0 +1,25 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.4
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: hombit@gmail.com
+author_name: Konstantin Malanchev
+create_example_module: false
+custom_install: true
+enforce_style:
+- ruff_lint
+- ruff_format
+failure_notification: []
+include_benchmarks: true
+include_docs: true
+include_notebooks: true
+mypy_type_checking: basic
+package_name: jax_em
+project_license: MIT
+project_name: jax-em
+project_organization: hombit
+python_versions:
+- '3.9'
+- '3.10'
+- '3.11'
+- '3.12'
+- '3.13'
