@@ -3,14 +3,7 @@
 For more information on writing benchmarks:
 https://asv.readthedocs.io/en/stable/writing_benchmarks.html."""
 
-from jax_em import example_benchmarks
 
-
-def time_computation():
+def time_em():
     """Time computations are prefixed with 'time'."""
-    example_benchmarks.runtime_computation()
-
-
-def mem_list():
-    """Memory computations are prefixed with 'mem' or 'peakmem'."""
-    return example_benchmarks.memory_computation()
+    pass
