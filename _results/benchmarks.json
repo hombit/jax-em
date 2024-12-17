@@ -1,0 +1,18 @@
+{
+    "benchmarks.time_em": {
+        "code": "def time_em():\n    \"\"\"Time computations are prefixed with 'time'.\"\"\"\n    pass",
+        "min_run_count": 2,
+        "name": "benchmarks.time_em",
+        "number": 0,
+        "param_names": [],
+        "params": [],
+        "repeat": 0,
+        "rounds": 2,
+        "sample_time": 0.01,
+        "type": "time",
+        "unit": "seconds",
+        "version": "b4cfc303c0508af8abce68b5f46767474c8cf164ebea3be2fdccbdedf1b75aa0",
+        "warmup_time": -1
+    },
+    "version": 2
+}
